@@ -17,7 +17,7 @@ def leer_json(nombre_archivo):
 # Crear ventana principal
 window = tk.Tk()
 window.title("Sistema de Tickets")
-window.geometry("400x300")
+window.geometry("300 px")
 
 # Leer archivo JSON
 nombre_archivo = "data_json.json"  # Aquí se reemplaza el nombre del archivo directamente
